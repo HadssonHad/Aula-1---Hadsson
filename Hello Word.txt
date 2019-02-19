@@ -1,0 +1,17 @@
+#include <iostream>
+
+/*
+
+Hadsson de Lima Gemelli
+
+Aula 1 - Primeiro Hello Word
+
+ */
+
+int main() {
+	
+	printf("Hello Word");
+	
+	return 0;
+	
+}
